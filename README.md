@@ -1,2 +1,2 @@
 # Personal Portfolio Website
-  ---- Made using Claude LLM by Anthropic. 
+  ---- Made using Claude LLM. 
